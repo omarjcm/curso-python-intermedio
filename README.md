@@ -64,24 +64,3 @@ palindromo = lambda cadena : cadena == cadena[::-1]
 def palindromo(cadena):
     return cadena == cadena[::-1]
 
-## High order functions: filter, map y reduce
-
-Es una funcion que recibe como parametros otra funcion.
-
-> def saludo(fn):
->   fn()
->
-> def hola():
->   print('Hola!')
->
-> def adios():
->   print('Adios!')
->
-> saludo(hola)
-> saludo(adios)
-
-
-
-
-
-
