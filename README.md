@@ -4,7 +4,7 @@
 
 - Con el siguiente comando se obtiene informacion acerca del Zen de Python.
 
->>>> import this
+> import this
 
     Bello es mejor que feo.
     Explicito es mejor que implícito.
